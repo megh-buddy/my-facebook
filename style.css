@@ -1,0 +1,148 @@
+* {
+    background-color: #f0f2f5;
+}
+
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 119, 255);
+    font-size: 55px;
+    margin-bottom: 0;
+}
+
+.title-desc {
+    font-size: 27px;
+    margin-top: 5px;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.box {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+
+
+}
+
+/* .container {
+    margin-top: 150px;
+    margin-left: 0px;
+    
+} */
+
+.form {
+    width: 10cm;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    background: #fff;
+    margin-left: 60px;
+    box-shadow: 0 0 0;
+    height: 8.5cm;
+}
+
+form {
+    background: #fff;
+    margin-bottom: 0;
+}
+
+.form input {
+    background: #fff;
+    outline: none;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 100%;
+    font-size: 17px;
+    border: 1px solid #eeebeb;
+    
+}
+.form input:focus{
+    box-shadow: 0 0 1px 1px rgb(22, 111, 229) ;
+   
+}
+
+#email-bar, #pwd-bar {
+    height: 1.3cm;
+
+}
+
+.form button{
+    background: rgb(0, 119, 255);
+    color: #fff;
+    border-radius: 5px;
+    width: 100%;
+    height: 1.3cm;
+    border: 1px solid #eeebeb;
+    font-size: 20px;
+    font-weight: bold;
+}
+.form button:hover{
+    background: #1877f2;
+    cursor: pointer;
+}
+
+.form-anchor{
+    margin-top: 50px;
+    background: #fff;
+    font-size: 14px;
+    color: rgb(0, 119, 255);
+    
+
+}
+
+.ending-header{
+    background: #fff;
+}
+.ending-header button{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: bolder;
+    background: #36a420;
+
+}
+.ending-header button:hover{
+    background: #42b72a;
+    
+    
+}
+
+strong{
+    color: black;
+}
+main p{
+       
+}
+.footer{
+    font-size: 13px;
+    
+    margin-left: 21cm;
+}
+
+.hashtag{
+    margin-top: 0;
+}
+    
+
+input[]{
+
+}
